@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.box {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: auto;
+  padding: 6px;
+  border: none;
+  border-radius: 5px;
+  font-family: Verdana;
+  position: relative;
+}/*# sourceMappingURL=style.css.map */
